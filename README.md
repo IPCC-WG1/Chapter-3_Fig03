@@ -1,6 +1,7 @@
 
 SURFACE AIR TEMPERATURE - MODEL BIAS
 ====================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6656093.svg)](https://doi.org/10.5281/zenodo.6656093)
 
 Figure number: 3.3
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
